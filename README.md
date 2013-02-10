@@ -5,7 +5,7 @@
 
 Display a PDF file in a webpage using an element. Renders the PDF without the need for a PDF reader client application. Using Mozilla's Pdf.js project.
 
-Nice to use in combination with the CakePdf plugin to create PDF's: https://github.com/ceeram/CakePdf
+Nice to use in combination with the CakePdf plugin to create PDF's: https://github.com/ceeram/CakePdf 
 
 # Installation and Setup
 
